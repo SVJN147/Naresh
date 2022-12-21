@@ -1,0 +1,1 @@
+SET OutputRoot.XMLNSC.EMPNAME= InputRoot.MRM.Eneame;
